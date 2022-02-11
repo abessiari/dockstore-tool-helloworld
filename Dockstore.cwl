@@ -12,12 +12,12 @@ $namespaces:
 
 dct:creator:
   "@id": "http://orcid.org/0000-0001-9758-0176"
-  foaf:name: James Eddy
-  foaf:mbox: "mailto:james.a.eddy@gmail.com"
+  foaf:name: Abdelilah Essiari
+  foaf:mbox: "mailto:abessiari@gmail.com"
 
 requirements:
 - class: DockerRequirement
-  dockerPull: quay.io/ga4gh-dream/dockstore-tool-helloworld:1.0.2
+  dockerPull: aessiari/dockstore-tool-helloworld:latest
 
 inputs:
   template_file:
