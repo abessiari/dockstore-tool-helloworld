@@ -6,7 +6,7 @@
 FROM ubuntu:16.04
 
 # File Author / Maintainer
-MAINTAINER James Eddy <james.a.eddy@gmail.com>
+MAINTAINER Abdelilah Essiari <abessiari@gmail.com>
 
 # set version here to minimize need for edits below
 ENV VERSION=1.0.2
